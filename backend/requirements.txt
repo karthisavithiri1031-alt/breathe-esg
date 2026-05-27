@@ -1,0 +1,10 @@
+django>=6.0,<7.0
+djangorestframework>=3.17
+django-cors-headers>=4.9
+django-filter>=25.0
+whitenoise>=6.0
+gunicorn>=22.0
+python-dotenv>=1.0
+pandas>=2.0
+openpyxl>=3.1
+pdfplumber>=0.11

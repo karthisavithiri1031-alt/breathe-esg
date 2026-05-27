@@ -1,0 +1,16 @@
+Meter ID,Site,Billing Period Start,Billing Period End,Consumption,Unit,Read Type,Tariff,Total Cost,Currency
+MPAN-001-MUM,Mumbai HQ - Main Incomer,01/01/2024,31/01/2024,48250,kWh,Actual,HT-Industrial,482500,INR
+MPAN-002-MUM,Mumbai HQ - HVAC Sub-meter,01/01/2024,31/01/2024,12800,kWh,Actual,HT-Industrial,128000,INR
+MPAN-003-MUM,Mumbai HQ - IT Server Room,01/01/2024,31/01/2024,9400,kWh,Actual,HT-Industrial,94000,INR
+MPAN-004-DEL,Delhi Office - Main,15/12/2023,14/01/2024,22100,kWh,Estimated,Commercial,221000,INR
+MPAN-005-BLR,Bangalore Tech Park,01/01/2024,31/01/2024,35600,kWh,Actual,HT-II,356000,INR
+MPAN-006-UK,London Office,01/01/2024,31/01/2024,8920,kWh,Actual,Business-E7,1784.00,GBP
+MPAN-001-MUM,Mumbai HQ - Main Incomer,01/02/2024,29/02/2024,51200,kWh,Actual,HT-Industrial,512000,INR
+MPAN-002-MUM,Mumbai HQ - HVAC Sub-meter,01/02/2024,29/02/2024,13600,kWh,Actual,HT-Industrial,136000,INR
+MPAN-003-MUM,Mumbai HQ - IT Server Room,01/02/2024,29/02/2024,9800,kWh,Actual,HT-Industrial,98000,INR
+MPAN-004-DEL,Delhi Office - Main,15/01/2024,14/02/2024,24500,kWh,Actual,Commercial,245000,INR
+MPAN-005-BLR,Bangalore Tech Park,01/02/2024,29/02/2024,38200,kWh,Actual,HT-II,382000,INR
+MPAN-006-UK,London Office,01/02/2024,29/02/2024,7840,kWh,Actual,Business-E7,1568.00,GBP
+MPAN-001-MUM,Mumbai HQ - Main Incomer,01/03/2024,31/03/2024,53800,kWh,Actual,HT-Industrial,538000,INR
+MPAN-004-DEL,Delhi Office - Main,15/02/2024,14/03/2024,26800,kWh,Estimated,Commercial,268000,INR
+MPAN-007-MUM,Mumbai HQ - EV Chargers,01/02/2024,29/02/2024,1240,kWh,Actual,HT-Industrial,12400,INR

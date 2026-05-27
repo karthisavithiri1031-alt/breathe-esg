@@ -1,0 +1,26 @@
+Travel Date,Expense Type,Origin,Destination,Cabin Class,Distance (km),Nights,Hotel Name,Transport Type,Employee,Department,Cost Centre,Amount,Currency
+2024-01-08,Flight,BOM,DEL,Economy,,,,,,Priya Sharma,Engineering,CC-IT,8500,INR
+2024-01-08,Hotel,,,,,,Taj Diplomatic Enclave,,1,Priya Sharma,Engineering,CC-IT,12000,INR
+2024-01-09,Hotel,,,,,,Taj Diplomatic Enclave,,1,Priya Sharma,Engineering,CC-IT,12000,INR
+2024-01-10,Flight,DEL,BOM,Economy,,,,,,Priya Sharma,Engineering,CC-IT,8200,INR
+2024-01-12,Flight,BOM,LHR,Business,,,,,,Rajiv Menon,Sales,CC-SALES,145000,INR
+2024-01-12,Hotel,,,,,3,Premier Inn London,,,Rajiv Menon,Sales,CC-SALES,420,GBP
+2024-01-15,Flight,LHR,CDG,Economy,,,,,,Rajiv Menon,Sales,CC-SALES,85,GBP
+2024-01-15,Hotel,,,,,1,Mercure Paris Opera,,,Rajiv Menon,Sales,CC-SALES,185,EUR
+2024-01-16,Flight,CDG,LHR,Economy,,,,,,Rajiv Menon,Sales,CC-SALES,90,GBP
+2024-01-16,Ground,,,,,,,,Taxi,Rajiv Menon,Sales,CC-SALES,45,GBP
+2024-01-18,Flight,LHR,BOM,Business,,,,,,Rajiv Menon,Sales,CC-SALES,148000,INR
+2024-01-20,Ground,,,,120,,,Car,Aisha Khan,Operations,CC-OPS,3200,INR
+2024-01-22,Flight,BOM,BLR,Economy,,,,,,Sunita Rao,HR,CC-HR,5800,INR
+2024-01-23,Hotel,,,,,2,Sheraton Grand Bangalore,,,Sunita Rao,HR,CC-HR,18000,INR
+2024-01-25,Flight,BLR,BOM,Economy,,,,,,Sunita Rao,HR,CC-HR,5600,INR
+2024-02-05,Flight,DEL,DXB,Economy,,,,,,Amit Verma,Finance,CC-FIN,22000,INR
+2024-02-05,Hotel,,,,,2,Ibis Dubai Al Barsha,,,Amit Verma,Finance,CC-FIN,280,AED
+2024-02-07,Flight,DXB,DEL,Economy,,,,,,Amit Verma,Finance,CC-FIN,21500,INR
+2024-02-10,Ground,,,,,,,,Train,Multiple,Operations,CC-OPS,450,INR
+2024-02-14,Flight,BOM,MAA,Economy,,,,,,Kavya Nair,Engineering,CC-IT,6200,INR
+2024-02-14,Ground,,,,45,,,Taxi,Kavya Nair,Engineering,CC-IT,800,INR
+2024-02-15,Flight,MAA,BOM,Economy,,,,,,Kavya Nair,Engineering,CC-IT,6000,INR
+2024-02-20,Flight,LHR,JFK,Business,,,,,,CEO Office,Executive,CC-EXEC,890,GBP
+2024-02-20,Hotel,,,,,3,Marriott Times Square,,,CEO Office,Executive,CC-EXEC,1200,USD
+2024-02-23,Flight,JFK,LHR,Business,,,,,,CEO Office,Executive,CC-EXEC,920,GBP
